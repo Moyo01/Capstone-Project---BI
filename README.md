@@ -1,3 +1,4 @@
 # Capstone-Project-
-Tool Used - Power BI
+
+## H2 The Objectives
 
