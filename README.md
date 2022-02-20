@@ -1,6 +1,4 @@
-# Capstone-Project-
-
- Palmoria Objectives
+# Palmoria Objectives
 
 1. Gender Distribution in departments and regions.
 2. Ratings insights based on Gender. 
