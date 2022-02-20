@@ -1,2 +1,3 @@
-# Capstone-Project---BI
-Palmoria manufacturing company
+# Capstone-Project-
+Tool Used - Power BI
+
