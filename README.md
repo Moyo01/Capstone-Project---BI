@@ -1,5 +1,7 @@
 # Palmoria Objectives
 
+Tool Used: Power BI
+
 1. Gender Distribution in departments and regions.
 2. Ratings insights based on Gender. 
 3. Salary structure in the company. Identify  the any pay gap in any departments and regions.
@@ -8,4 +10,4 @@
 6. Individual amount paid to employees. Distil between regions and company world wide.  
 
 
-The link to medium article for this project can be located here.
+The link to medium article for this project can be located here [medium](https://medium.com/p/2cb83a024e4e/edit)
